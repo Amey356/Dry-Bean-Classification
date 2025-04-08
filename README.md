@@ -2,13 +2,11 @@
 
 # Dry Bean Classification Model
 ## Overview
-    This project builds a Dry Bean Classification Model to predict the category of dry beans based on their morphological features. The goal is to help in automating the classification process of dry beans using machine learning, which is useful in agriculture and food quality control.
+This project builds a Dry Bean Classification Model to predict the category of dry beans based on their morphological features. The goal is to help in automating the classification process of dry beans using machine learning, which is useful in agriculture and food quality control.
 
-The following classification algorithms are used in this model:
-
-Logistic Regression
-
-Decision Tree Classifier
+## The following classification algorithms are used in this model:
+    - Logistic Regression
+    - Decision Tree Classifier
 
 Random Forest Classifier
 
