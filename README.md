@@ -1,5 +1,3 @@
-# Dry-Bean-Classification
-
 # Dry Bean Classification Model
 ## Overview
 This project builds a Dry Bean Classification Model to predict the category of dry beans based on their morphological features. The goal is to help automate the dry bean classification process using machine learning, which is useful in agriculture and food quality control.
